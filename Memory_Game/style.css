@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    width: 800px;
+    margin: 40px auto;
+}
+.score{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px auto; 
+    text-align: center;
+}
