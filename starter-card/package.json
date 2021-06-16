@@ -1,0 +1,18 @@
+{
+	"name": "starter-card",
+	"version": "1.0.0",
+	"description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+	"main": "index.js",
+	"scripts": {
+		"dev": "vite"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"autoprefixer": "^10.2.6",
+		"postcss": "^8.3.0",
+		"tailwindcss": "^2.1.4",
+		"vite": "^2.3.6"
+	}
+}
